@@ -1,5 +1,7 @@
 Github
 
+Estudando todos os dias vai ficando tudo mais fácil!
+
 Passando para fixar o que aprendi
 
 Arquivo da aula de iniciante de Git e Github para iniciantes
